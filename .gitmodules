@@ -10,3 +10,6 @@
 [submodule "deps/automake"]
 	path = deps/automake
 	url = git://github.com/mwcampbell/automake
+[submodule "deps/libtool"]
+	path = deps/libtool
+	url = git://github.com/mwcampbell/libtool
