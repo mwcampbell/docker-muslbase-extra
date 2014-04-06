@@ -1,0 +1,3 @@
+[submodule "deps/perl"]
+	path = deps/perl
+	url = git://perl5.git.perl.org/perl
