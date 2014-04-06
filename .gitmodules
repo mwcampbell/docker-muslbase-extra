@@ -1,3 +1,6 @@
 [submodule "deps/perl"]
 	path = deps/perl
 	url = git://perl5.git.perl.org/perl
+[submodule "deps/m4"]
+	path = deps/m4
+	url = git://github.com/mwcampbell/m4
