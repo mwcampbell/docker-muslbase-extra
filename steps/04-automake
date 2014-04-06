@@ -1,6 +1,6 @@
 cp -a $DEPS/automake .
 cd automake
 
-./configure --prefix=/local
+./configure --prefix=
 make $jobs
 make install

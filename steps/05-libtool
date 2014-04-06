@@ -1,6 +1,6 @@
 cp -a $DEPS/libtool .
 cd libtool
 
-./configure --prefix=/local --disable-shared
+./configure --prefix= --disable-shared
 make $jobs
 make install
