@@ -1,0 +1,6 @@
+cp -a $DEPS/autoconf .
+cd autoconf
+
+./configure --prefix=/local
+make $jobs
+make install
