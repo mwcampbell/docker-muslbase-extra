@@ -13,3 +13,6 @@
 [submodule "deps/libtool"]
 	path = deps/libtool
 	url = git://github.com/mwcampbell/libtool
+[submodule "deps/pkgconf"]
+	path = deps/pkgconf
+	url = git://github.com/pkgconf/pkgconf

@@ -1,0 +1,8 @@
+cp -a $DEPS/pkgconf .
+cd pkgconf
+
+./autogen.sh
+./configure LDFLAGS="-static" --prefix=/local
+make $jobs
+make install
+ln -sf pkgconf /local/bin/pkg-config
