@@ -19,3 +19,12 @@
 [submodule "deps/flex"]
 	path = deps/flex
 	url = git://github.com/mwcampbell/flex
+[submodule "deps/bison"]
+	path = deps/bison
+	url = git://github.com/mwcampbell/bison
+[submodule "deps/help2man"]
+	path = deps/help2man
+	url = git://github.com/mwcampbell/help2man
+[submodule "deps/texinfo"]
+	path = deps/texinfo
+	url = git://github.com/mwcampbell/texinfo
