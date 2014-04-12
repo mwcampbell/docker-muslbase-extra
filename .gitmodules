@@ -16,3 +16,6 @@
 [submodule "deps/pkgconf"]
 	path = deps/pkgconf
 	url = git://github.com/pkgconf/pkgconf
+[submodule "deps/flex"]
+	path = deps/flex
+	url = git://github.com/mwcampbell/flex
