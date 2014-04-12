@@ -28,3 +28,6 @@
 [submodule "deps/texinfo"]
 	path = deps/texinfo
 	url = git://github.com/mwcampbell/texinfo
+[submodule "deps/gawk"]
+	path = deps/gawk
+	url = git://github.com/mwcampbell/gawk
